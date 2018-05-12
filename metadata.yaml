@@ -1,0 +1,28 @@
+_repo: InsanityIts-Causes-and-Prevention_37222
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stearns, Henry Putnam
+    alias: Stearns, H. P. (Henry Putnam)
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '38712'
+    url: http://www.gutenberg.org/2009/agents/38712
+description: ''
+gutenberg_issued: '2011-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37222'
+  lccn: '07034131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychiatry -- Early works to 1900'
+- !lcc 'RC'
+title: 'Insanity: Its Causes and Prevention'
+url: http://www.gutenberg.org/ebooks/37222
